@@ -17,7 +17,10 @@ function NavbarComponent() {
     navigate("/");
   };
 
-  const clickLogout = () => {};
+  const clickLogout = () => {
+    localStorage.clear();
+    window.location.reload();
+  };
 
   return (
     <div>
