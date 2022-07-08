@@ -1,0 +1,15 @@
+.body-login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+}
+
+.wrap-login {
+    width: 60vh;
+    height: auto;
+    border-style:solid;
+    border-width: 2px;
+    border-color: grey;
+    padding: 20px 20px 20px 20px;
+}

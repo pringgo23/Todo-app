@@ -1,0 +1,22 @@
+.body-home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.wrap-home{
+    width: 100vh;
+}
+
+.wrap-btnhome {
+    display: flex;
+    justify-content: left;
+}
+
+.btn-home:hover {
+    background-color: #A5BECC;
+    color: black;
+    border-color: #A5BECC;
+}
+

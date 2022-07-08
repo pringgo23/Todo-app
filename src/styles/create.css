@@ -1,0 +1,14 @@
+.create-body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+
+.create-wrap{
+    width: 80vh;
+    border-style: solid;
+    border-width: 1px;
+    border-color: grey;
+}
